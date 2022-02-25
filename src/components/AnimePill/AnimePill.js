@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { StyledPill } from "./AnimePills.styles";
+import { StyledPill } from "./AnimePill.styles";
 
 const AnimePill = ({ anime, color = "red" }) => {
   return (
